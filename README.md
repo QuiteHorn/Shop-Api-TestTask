@@ -36,7 +36,7 @@ API предоставляет возможность получать, меня
 
 ```cd Shop-Api-TestTask```
 
-3. Убедитесь, что услановлен Docker и Docker Compose
+3. Убедитесь, что установлен Docker и Docker Compose
    
 4. Запустите проект с помощью Docker Compose
 
